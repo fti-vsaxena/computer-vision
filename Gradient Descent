@@ -1,0 +1,8 @@
+**What is gradient descent ?**
+
+Gradient descent is an optimization algorithm for finding a local minimum of a differentiable function which is commonly-used to train machine learning models and neural networks.
+
+Types of gradient descent ?
+
+1. Momentum based gradient descent
+- 
