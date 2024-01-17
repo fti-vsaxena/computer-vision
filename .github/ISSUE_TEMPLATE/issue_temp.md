@@ -1,6 +1,6 @@
 ---
 name: Issue Report
-about: Create a issue report to help us resolving the issue
+about: Indicates an unexpected problem or unintended behavior
 title: ''
 labels: 'bug'
 
